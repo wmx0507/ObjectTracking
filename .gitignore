@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output videos (too large for git, regeneratable)
+output_task*.mp4
+output_spline*.mp4
+
+# Video files in data directory
+图像处理作业1/*.mp4
+
+# Debug images
+debug_*.png
+debug_*.jpg
+verify_*.png
+frame*_grid.jpg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
