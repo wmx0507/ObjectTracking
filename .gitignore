@@ -22,3 +22,6 @@ frame*_grid.jpg
 # OS
 .DS_Store
 Thumbs.db
+
+# Local config
+.claude/settings.local.json
